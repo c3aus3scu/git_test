@@ -1,1 +1,2 @@
 Deocamdata doar TEXT
+I just simplified git commit with git config --global core.editor "code --wait"
